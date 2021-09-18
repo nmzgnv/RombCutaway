@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.js": "/RombCutaway/static/js/main.e476f91b.chunk.js",
-    "main.js.map": "/RombCutaway/static/js/main.e476f91b.chunk.js.map",
+    "main.css": "/RombCutaway/static/css/main.ee80067c.chunk.css",
+    "main.js": "/RombCutaway/static/js/main.0bb26c10.chunk.js",
+    "main.js.map": "/RombCutaway/static/js/main.0bb26c10.chunk.js.map",
     "runtime-main.js": "/RombCutaway/static/js/runtime-main.b77228eb.js",
     "runtime-main.js.map": "/RombCutaway/static/js/runtime-main.b77228eb.js.map",
-    "static/css/2.a2ab3232.chunk.css": "/RombCutaway/static/css/2.a2ab3232.chunk.css",
-    "static/js/2.e4ae5018.chunk.js": "/RombCutaway/static/js/2.e4ae5018.chunk.js",
-    "static/js/2.e4ae5018.chunk.js.map": "/RombCutaway/static/js/2.e4ae5018.chunk.js.map",
+    "static/css/2.a75e2c77.chunk.css": "/RombCutaway/static/css/2.a75e2c77.chunk.css",
+    "static/js/2.c4cb2389.chunk.js": "/RombCutaway/static/js/2.c4cb2389.chunk.js",
+    "static/js/2.c4cb2389.chunk.js.map": "/RombCutaway/static/js/2.c4cb2389.chunk.js.map",
     "index.html": "/RombCutaway/index.html",
-    "static/css/2.a2ab3232.chunk.css.map": "/RombCutaway/static/css/2.a2ab3232.chunk.css.map",
-    "static/js/2.e4ae5018.chunk.js.LICENSE.txt": "/RombCutaway/static/js/2.e4ae5018.chunk.js.LICENSE.txt",
-    "static/media/Nick.ba66c246.png": "/RombCutaway/static/media/Nick.ba66c246.png"
+    "static/css/2.a75e2c77.chunk.css.map": "/RombCutaway/static/css/2.a75e2c77.chunk.css.map",
+    "static/css/main.ee80067c.chunk.css.map": "/RombCutaway/static/css/main.ee80067c.chunk.css.map",
+    "static/js/2.c4cb2389.chunk.js.LICENSE.txt": "/RombCutaway/static/js/2.c4cb2389.chunk.js.LICENSE.txt",
+    "static/media/Demyan.708a1daa.png": "/RombCutaway/static/media/Demyan.708a1daa.png",
+    "static/media/Logo.480484a1.png": "/RombCutaway/static/media/Logo.480484a1.png",
+    "static/media/Maksim.15bcf392.png": "/RombCutaway/static/media/Maksim.15bcf392.png",
+    "static/media/Nick.ba66c246.png": "/RombCutaway/static/media/Nick.ba66c246.png",
+    "static/media/Sasha.ec86bfcb.png": "/RombCutaway/static/media/Sasha.ec86bfcb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b77228eb.js",
-    "static/css/2.a2ab3232.chunk.css",
-    "static/js/2.e4ae5018.chunk.js",
-    "static/js/main.e476f91b.chunk.js"
+    "static/css/2.a75e2c77.chunk.css",
+    "static/js/2.c4cb2389.chunk.js",
+    "static/css/main.ee80067c.chunk.css",
+    "static/js/main.0bb26c10.chunk.js"
   ]
 }
