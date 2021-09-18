@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/RombCutaway/static/js/main.e476f91b.chunk.js",
+    "main.js.map": "/RombCutaway/static/js/main.e476f91b.chunk.js.map",
+    "runtime-main.js": "/RombCutaway/static/js/runtime-main.b77228eb.js",
+    "runtime-main.js.map": "/RombCutaway/static/js/runtime-main.b77228eb.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/RombCutaway/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.e4ae5018.chunk.js": "/RombCutaway/static/js/2.e4ae5018.chunk.js",
+    "static/js/2.e4ae5018.chunk.js.map": "/RombCutaway/static/js/2.e4ae5018.chunk.js.map",
+    "index.html": "/RombCutaway/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/RombCutaway/static/css/2.a2ab3232.chunk.css.map",
+    "static/js/2.e4ae5018.chunk.js.LICENSE.txt": "/RombCutaway/static/js/2.e4ae5018.chunk.js.LICENSE.txt",
+    "static/media/Nick.ba66c246.png": "/RombCutaway/static/media/Nick.ba66c246.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b77228eb.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.e4ae5018.chunk.js",
+    "static/js/main.e476f91b.chunk.js"
+  ]
+}
